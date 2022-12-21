@@ -1,1 +1,2 @@
 # Class-Gempa.py
+TUGAS DDP BIKIN GEMPA
